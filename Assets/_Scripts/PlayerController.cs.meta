@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2bead5304f9c34ff6a851624fe90a989
+timeCreated: 1437866960
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - winText: {instanceID: 0}
+  - loseText: {instanceID: 0}
+  - startText: {instanceID: 0}
+  - endText: {instanceID: 0}
+  - loseSound: {fileID: 8286586, guid: d6805b9c551a84d59a9ee95e0eb7dbc0, type: 2}
+  - winSound: {fileID: 8223458, guid: 0021399849b424a94a5edeef8898d963, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

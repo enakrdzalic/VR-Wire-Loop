@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/LevelUnlockController.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/PromptController.cs" Line="56" Column="27" />
+      <File FileName="Assets/_Scripts/LevelUnlockController.cs" Line="16" Column="60" />
+      <File FileName="Assets/_Scripts/PlayerController.cs" Line="52" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
